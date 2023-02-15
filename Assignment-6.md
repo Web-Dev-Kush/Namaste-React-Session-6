@@ -21,5 +21,6 @@ Build Shimmer UI when data is not loaded.
 Render your UI with actual API data.
 Make Search functionality work.
 Make a Login Logout button that toggles with a state.
+
 References:
 Akshay Saini Code Link
